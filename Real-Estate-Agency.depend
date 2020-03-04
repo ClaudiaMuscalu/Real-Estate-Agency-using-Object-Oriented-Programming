@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1558009935 source:c:\users\claudia\desktop\locuintapoo\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<vector>
+
